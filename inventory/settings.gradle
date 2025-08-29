@@ -1,0 +1,10 @@
+rootProject.name = 'inventory'
+
+include 'Availability'
+include 'supply'
+include 'demand'
+include 'meta-data'
+include 'common'
+include 'configs'
+include 'app'
+include 'avail'
